@@ -1,13 +1,13 @@
 # Design Patterns 
 
 ### Exerise Components
-* Single Responsibility Principle (SRP)
-* Open-Closed Principle (OCP)
-* Liskov Principle
-* Interface Segregation Principle (ISP) - multipple inheritance
-* Dependency Inversion Principle (DIP)
-* Object/Class Adapter Pattern
-* Factory & Abstract Factory Adapter Pattern
+- [ ] Single Responsibility Principle (SRP)
+- [ ] Open-Closed Principle (OCP)
+- [ ] Liskov Principle
+- [ ] Interface Segregation Principle (ISP) - multipple inheritance
+- [ ] Dependency Inversion Principle (DIP)
+- [ ] Object/Class Adapter Pattern
+- [ ] Factory & Abstract Factory Adapter Pattern
 
 
 ### General Info
