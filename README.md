@@ -1,7 +1,7 @@
 # Design Patterns 
 
 ### Exerise Components
-- [ ] Single Responsibility Principle (SRP)
+- [X] Single Responsibility Principle (SRP)
 - [ ] Open-Closed Principle (OCP)
 - [ ] Liskov Principle
 - [ ] Interface Segregation Principle (ISP) - multipple inheritance
