@@ -8,7 +8,7 @@
 - [ ] Dependency Inversion Principle (DIP)
 - [ ] Object/Class Adapter Pattern
 - [ ] Factory & Abstract Factory Adapter Pattern
-- [ ] 15-slide powerpoint analyzing (Circuit Breaker PatternRetry Pattern/ Valet –Key PatternEvent Sourcing Pattern/ Event Sourcing PatternRetry Pattern/ Federated Identity PatternEvent Sourcing Pattern) from [Cloud Design Patterns](https://www.microsoft.com/en-us/download/confirmation.aspx?id=42026) by Microsoft. Also, implement indicative examples for both of the Principles. Implementations can be based on the book's examples.
+- [ ] 15-slide powerpoint analyzing (Circuit Breaker, PatternRetry Pattern/ Valet–Key Pattern, Event Sourcing Pattern/ Event Sourcing Pattern, Retry Pattern/ Federated Identity Pattern, Event Sourcing Pattern) from [Cloud Design Patterns](https://www.microsoft.com/en-us/download/confirmation.aspx?id=42026) by Microsoft. Also, implement a class diagram and use cases for each design pattern. All the above will be based on the e-book's examples.
 
 ### General Info
 * Python version: [3.9.5](https://www.python.org/downloads/release/python-395/)
