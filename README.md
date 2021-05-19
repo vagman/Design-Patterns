@@ -3,7 +3,7 @@
 ### Exerise Components
 - [X] Single Responsibility Principle (SRP)
 - [ ] Open-Closed Principle (OCP)
-- [ ] Liskov Principle
+- [ ] Liskov Substitution Principle (LSP)
 - [ ] Interface Segregation Principle (ISP) - implemented with Multipple Inheritance
 - [ ] Dependency Inversion Principle (DIP)
 - [ ] Object/Class Adapter Pattern
