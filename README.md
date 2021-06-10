@@ -13,3 +13,4 @@
 ### General Info
 * Python version: [3.9.5](https://www.python.org/downloads/release/python-395/)
 * Examples are simple and easy to understand. Every example emphasizes in giving the meaning of each Principle.
+* Every example is followed by its class diagram to explain how the principle is used.
