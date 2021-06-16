@@ -1,4 +1,4 @@
-# Design Patterns in Python
+# SOLID Principles - Python Implementation
 
 ### Exerise Components
 - [X] Single Responsibility Principle (SRP)
