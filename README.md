@@ -4,7 +4,7 @@
 - [X] Single Responsibility Principle (SRP)
 - [X] Open-Closed Principle (OCP)
 - [X] Liskov Substitution Principle (LSP)
-- [ ] Interface Segregation Principle (ISP) - implemented with Multipple Inheritance
+- [x] Interface Segregation Principle (ISP) - implemented with Multipple Inheritance
 - [ ] Dependency Inversion Principle (DIP)
 - [ ] Object/Class Adapter Pattern
 - [ ] Factory Adapter Pattern
