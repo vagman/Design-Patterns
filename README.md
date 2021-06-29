@@ -6,7 +6,7 @@
 - [X] Liskov Substitution Principle (LSP)
 - [x] Interface Segregation Principle (ISP) - implemented with Multipple Inheritance
 - [X] Dependency Inversion Principle (DIP)
-- [ ] Object/Class Adapter Pattern
+- [X] Class Adapter Pattern
 - [ ] Factory Adapter Pattern
 - [ ] Abstract Factory Adapter Pattern
 - [ ] 15-slide powerpoint analyzing (Circuit Breaker, PatternRetry Pattern/ Valet–Key Pattern, Event Sourcing Pattern/ Event Sourcing Pattern, Retry Pattern/ Federated Identity Pattern, Event Sourcing Pattern) from [Cloud Design Patterns](https://www.microsoft.com/en-us/download/confirmation.aspx?id=42026) by Microsoft. Also, implement a class diagram and use cases for each design pattern. All the above will be based on the e-book's examples.
