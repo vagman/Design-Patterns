@@ -5,7 +5,7 @@
 - [X] Open-Closed Principle (OCP)
 - [X] Liskov Substitution Principle (LSP)
 - [x] Interface Segregation Principle (ISP) - implemented with Multipple Inheritance
-- [ ] Dependency Inversion Principle (DIP)
+- [X] Dependency Inversion Principle (DIP)
 - [ ] Object/Class Adapter Pattern
 - [ ] Factory Adapter Pattern
 - [ ] Abstract Factory Adapter Pattern
