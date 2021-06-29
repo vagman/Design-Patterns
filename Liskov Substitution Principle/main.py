@@ -29,4 +29,4 @@ shapes = [square, rectangle, box]
 
 # Use area calculator for all the diffrent shapes we created
 ac = AreaCalculator()
-ac.calculateArea(shapes)
+ac.calculate_area(shapes)
