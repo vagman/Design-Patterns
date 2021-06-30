@@ -7,9 +7,9 @@
 - [x] Interface Segregation Principle (ISP) - implemented with Multipple Inheritance
 - [X] Dependency Inversion Principle (DIP)
 - [X] Class Adapter Pattern
-- [ ] Factory Adapter Pattern
-- [ ] Abstract Factory Adapter Pattern
-- [ ] 15-slide powerpoint analyzing Event Sourcing Pattern & Retry Pattern from [Cloud Design Patterns](https://www.microsoft.com/en-us/download/confirmation.aspx?id=42026) by Microsoft.
+- [X] Factory Adapter Pattern
+- [X] Abstract Factory Adapter Pattern
+- [X] 15-slide powerpoint analyzing Event Sourcing Pattern & Retry Pattern from [Cloud Design Patterns](https://www.microsoft.com/en-us/download/confirmation.aspx?id=42026) by Microsoft.
 
 ### General Inf
 * Python version: [3.9.5](https://www.python.org/downloads/release/python-395/)
