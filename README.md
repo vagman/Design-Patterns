@@ -1,6 +1,6 @@
 # [SOLID](https://en.wikipedia.org/wiki/SOLID) Principles - Python Implementation
 
-### Exerise Components
+### Exercise Components
 - [X] Single Responsibility Principle (SRP)
 - [X] Open-Closed Principle (OCP)
 - [X] Liskov Substitution Principle (LSP)
