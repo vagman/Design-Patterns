@@ -9,7 +9,7 @@
 - [X] Class Adapter Pattern
 - [X] Factory Adapter Pattern
 - [X] Abstract Factory Adapter Pattern
-- [X] 15-slide powerpoint analyzing Event Sourcing Pattern & Retry Pattern from [Cloud Design Patterns](https://www.microsoft.com/en-us/download/confirmation.aspx?id=42026) by Microsoft.
+- [X] 15-slide powerpoint analyzing [Event Sourcing Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing) & [Retry Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/retry) from Cloud Design Patterns  [e-book](https://www.microsoft.com/en-us/download/confirmation.aspx?id=42026) by Microsoft.
 
 ### General Info
 * Python version: [3.9.5](https://www.python.org/downloads/release/python-395/)
