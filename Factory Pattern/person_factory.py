@@ -11,5 +11,4 @@ class PersonFactory:
         if (person_type == "professor"):
             return Proffessor()
         if (person_type == "assistant professor"):
-            return AssistantProffessor()
-        
+            return AssistantProffessor()  
